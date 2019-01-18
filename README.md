@@ -26,7 +26,7 @@
      <body> 
 * insert ATM card into appropriate slot</br>
 * wait for machine to display new screen</br>
-* enter _4_ digit pin number</br>
+* enter 4 digit pin number</br>
 * wait for message of approval</br>
 * choose whether savings or current</br>
 * wait for new screen</br>

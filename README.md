@@ -4,7 +4,7 @@
 <h2>Quadratic Equation</h2>
   <h4>Steps to solve a quadratic equation</h4>
   <body> check for three variables attached to each x</br>
-- get first value = a</br>
+* get first value = a</br>
 * get second value = b</br>
 * get third value = c</br>
 * put all values into the quadratic formula in their correct positions</br>

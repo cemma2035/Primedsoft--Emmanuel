@@ -3,7 +3,7 @@
 <html>
 <h2>Quadratic Equation</h2>
   <h4>Steps to solve a quadratic equation</h4>
-  <body> check for three variables attached to each x</br>
+   <body> check for three variables attached to each x</br>
 * get first value = a</br>
 * get second value = b</br>
 * get third value = c</br>
@@ -19,6 +19,30 @@
 * For the second statement: subtract the new square root value from the b value</br>
 * Divide equation by the bottom value</br>
 * Print both results</br>
+   </body>
+   
+ <h2>ATM Withdrawal</h2>
+   <h4> Steps to withdraw from an ATM</h4>
+     <body> 
+* insert ATM card into appropriate slot</br>
+* wait for machine to display new screen</br>
+* enter 4 digit pin number</br>
+* wait for message of approval</br>
+* choose whether savings or current</br>
+* wait for new screen</br>
+* select “withdrawal” </br>
+* wait for new screen</br>
+* input correct amount using keypad</br>
+* wait for message of confirmation</br>
+* confirm</br>
+* wait for approval</br>
+* wait for money to be counted and released</br>
+* collect money</br>
+* wait for new screen</br>
+* select “finish” </br>
+* wait for new screen</br>
+* collect ATM card</br>
+* praise God</br>
    </body>
 </html>
   

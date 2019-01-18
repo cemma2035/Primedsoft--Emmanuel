@@ -3,7 +3,7 @@
 <html>
 <h2>Quadratic Equation</h2>
   <h4>Steps to solve a quadratic equation</h4>
-   <body> check for three variables attached to each x;  
+  <body> check for three variables attached to each x</br>
 get first value = a\
 get second value = b\ 
 get third value = c\ 

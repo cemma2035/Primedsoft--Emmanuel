@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+
+<html>
+<head >
+    <style>
+        .nav-content{
+            float:right;
+            margin-top:20px;
+        }
+        #nike-logo{
+            margin:20px;
+            margin-left: 70px;
+        }
+        .nav-bar {
+            font-family: Arial;
+            font-size: 15px;
+            margin-right: 25px;
+            margin-left: 25px;
+            cursor: pointer;
+        }
+        .soc-med {
+            float: right;
+            margin-right: 60px;
+            margin-left: 60px;
+        }
+        .main-body {
+            display:grid;
+            grid-template-columns: 65% 35%;
+            grid-column-gap: 2em;
+        }
+            #airmax {
+            position: absolute;
+            margin-top: -175px;
+            margin-left: -120px;
+                
+        }
+
+        #geometry {
+            position: absolute;
+            margin: 7%;
+        }
+        .description{
+            
+            float:right;
+            margin-top: 170px;
+        }
+        .desc-header {
+            font-size: 35px;
+            font-family: Arial;
+            font-weight:bold;
+            margin-top: 50px;
+            color: #313649;
+            line-height:55px;
+            font-stretch:wider;
+        }
+        .full-desc{
+            max-width: 320px;
+            font-family: Arial;
+            margin-top:15px;
+            font-weight:100;
+        }
+        /*.empty-span {
+            height: 10px;
+            width: 10px;
+            border-radius: 50%;
+            border: 0.5px solid red;
+            float:right;
+            margin-left: -70px;
+        }*/
+        .button {
+            background-color: #313649;
+            border: none;
+            color: white;
+            margin-top: 20px;
+            padding: 11px 13px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px;
+            font-family: Arial;
+            font-weight:bold;
+            cursor: pointer;
+            border-radius:5px;
+            font-stretch:expanded;
+        }
+        
+        
+        
+            
+        
+    </style>
+    
+</head>
+<body>
+    <div id="header">
+        <img id="nike-logo" src="logo1.png" alt="Nike Logo" style="width:50px; height: 25px;">
+        <div class="nav-content">
+            <div class="nav-bar">
+                <span class="nav-bar">HOME</span>
+                <span class="nav-bar">STORES</span>
+                <span class="nav-bar">KITS</span>
+                <span class="nav-bar">SPONSORSHIPS</span>
+                <span class="nav-bar">AMBASSADORS</span>
+                <div class="soc-med">
+                    <img src="fb1.svg" alt="Facebook Logo" style="width: 20px; height: 20px;">
+                    <img src="tw1.svg" alt="Twitter Logo" style="width: 20px; height: 20px;">
+                    <img src="in1.svg" alt="LinkedIn Logo" style="width: 20px; height: 20px;">
+                </div>
+            </div>
+            
+            
+        </div>
+        
+        
+    </div>
+
+    <div class="main-body">
+        <div id="airmax-image">
+            <img id="geometry" src="geometry-wallpapers.png" alt="Geometry" style="width: 400px; height: 400px;">
+            <img id="airmax" src="airmax4.png" alt="geometry" style="width: 900px; height: 800px;">
+        </div>
+
+        <div class="description">
+            <b>
+                <span class="desc-header">NIKE</span>
+            </b>
+            <img id="airmax-logo" src="max logo.svg" alt="AirMax Logo" style="width: 150px; height: 35px;">
+            <div>
+                <b>
+                    <span class="desc-header">LIMITED EDITION</span><br />
+                </b>
+                <div class="full-desc">
+                    Nike's airmax is the best kit you can get your hands on. Trusted by over 100,000 athletes all over the world.
+                </div>
+                <!--<div class="empty-span">
+                    <span></span>
+                </div><br />
+                <div class="empty-span">
+                    <span></span>
+                </div><br />
+                <div class="empty-span">
+                    <span></span>
+                </div>
+                -->
+                <div>
+                    <b>
+                        <button class="button">PLACE ORDER</button>
+                    </b>
+                </div>
+                
+
+            </div>
+            
+
+        </div>
+        
+
+    </div>
+    
+    
+
+</body>
+</html>
